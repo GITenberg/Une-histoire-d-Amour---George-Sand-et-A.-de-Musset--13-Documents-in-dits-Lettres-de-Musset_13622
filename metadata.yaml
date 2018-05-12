@@ -1,0 +1,33 @@
+_repo: Une-histoire-d-Amour---George-Sand-et-A.-de-Musset--13-Documents-in-dits-Lettres-de-Musset_13622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mariéton, Paul
+    aliases:
+    - Marieton, Jean Rene Benoit Paul
+    - Mariéton, Jean René Benoît Paul
+    - Marieton, Paul
+    birthdate: 1862
+    deathdate: 1911
+    gutenberg_agent_id: '5165'
+    url: http://www.gutenberg.org/2009/agents/5165
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13622'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sand, George, 1804-1876'
+- !lcsh 'Musset, Alfred de, 1810-1857'
+title: "Une histoire d'Amour : George Sand et A. de Musset\r\nDocuments inédits, Lettres\
+  \ de Musset"
+url: http://www.gutenberg.org/ebooks/13622
