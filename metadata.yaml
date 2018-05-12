@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '5165'
     url: http://www.gutenberg.org/2009/agents/5165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13622#Une-histoire-d-Amour---George-Sand-et-A.-de-Musset--13-Documents-in-dits-Lettres-de-Musset
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2004-10-06'
 gutenberg_type: Text
